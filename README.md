@@ -1,5 +1,7 @@
 # RecursiveSyntax
-Lab 3: Silly Sentences and Fancy Fractals - Part 1: Recursive Syntax from Eck, D. J. (2019). Introduction to programming using Java, version 8.1. Hobart and William Smith Colleges. http://math.hws.edu/eck/cs225/s09/lab3/index.html
+Exercise from http://math.hws.edu/eck/cs225/s09/lab3/index.html
+
+CS225, Spring 2009 Lab 3: Silly Sentences and Fancy Fractals
 
 Part 1: Recursive Syntax
 
